@@ -1,0 +1,1 @@
+Bom, estou começando na programaçao, entre as liguagens esta python e estou seguindo a area de machine learning.
